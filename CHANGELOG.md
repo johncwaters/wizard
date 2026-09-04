@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.72.1](https://github.com/PostHog/wizard/compare/v2.72.0...v2.72.1) (2026-09-04)
+
+
+### Bug Fixes
+
+* **skills:** don't retry non-retryable download statuses ([#829](https://github.com/PostHog/wizard/issues/829)) ([14338c1](https://github.com/PostHog/wizard/commit/14338c1f4f8ae14f3bb9f4f1de7284f018914e19))
+
 ## [2.72.0](https://github.com/PostHog/wizard/compare/v2.71.0...v2.72.0) (2026-09-03)
 
 
